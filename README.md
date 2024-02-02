@@ -2,7 +2,7 @@
   SYSTEM POWERED BY LINUX BASED IN UBUNTU, 
 ## Versions 
 Actual Version : *IleasOS 1.0 -Ubuntu22
-The Next Update : IleasOS 1.2 in 20.09.2023r.
+The Next Update : IleasOS 1.2 in 20.03.2024r.
 kernel: latest
 -----------=======-----===-----------------
 # Download IleasOS !
