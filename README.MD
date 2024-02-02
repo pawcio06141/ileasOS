@@ -8,7 +8,7 @@ kernel: latest
 # Download IleasOS !
 *-Link to ISO: https://mega.nz/file/Ab0SgTjR
 __Warning! You must enter the decryption key after entering the link,
-:decryption  key in next page: __
+
 
 *--Link to Virtual Machine:https://www.vmware.com/products/workstation-player.html
 #  ileasOS 
