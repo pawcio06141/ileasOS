@@ -6,9 +6,9 @@ The Next Update : IleasOS 1.2 in 20.09.2023r.
 kernel: latest
 -----------=======-----===-----------------
 # Download IleasOS !
-*-Link to ISO: https://mega.nz/file/Ab0SgTjR#
-__Warning! You need to add the decryption key to the link, enter the key in the link after the `#` sign__
-:decryption  key in next page:
+*-Link to ISO: https://mega.nz/file/Ab0SgTjR
+__Warning! You must enter the decryption key after entering the link,
+:decryption  key in next page: __
 
 *--Link to Virtual Machine:https://www.vmware.com/products/workstation-player.html
 #  ileasOS 
