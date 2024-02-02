@@ -18,5 +18,6 @@ SYstem for Education
 
 ## Autchors
 Owner Project: Pawel Cz
-Programators: Pawel Cz, Marian Ds, Program Cubic
+Programators: Pawel Cz, 
+, Program Cubic
 
