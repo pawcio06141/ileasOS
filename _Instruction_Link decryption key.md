@@ -1,5 +1,5 @@
 # decryption key AND Instruction Download
-key: https://ntpd.eu/VLalP/ 
+key: https://ntpd.eu/0LG00
 # ` how to use key? : 
 ## step 1: 
 go to the link, link in README.MD 
