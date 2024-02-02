@@ -1,4 +1,4 @@
-# WELCOME TO ILEASos (Ubuntu) !
+# WELCOME TO ILEASos (improved Ubuntu) !
   SYSTEM POWERED BY LINUX BASED IN UBUNTU, 
 ## Versions 
 Actual Version : *IleasOS 1.0 -Ubuntu22
@@ -6,7 +6,9 @@ The Next Update : IleasOS 1.2 in 20.09.2023r.
 kernel: latest
 -----------=======-----===-----------------
 # Download IleasOS !
-*-Link to ISO:
+*-Link to ISO: https://mega.nz/file/Ab0SgTjR#
+__Warning! You need to add the decryption key to the link, enter the key in the link after the `#` sign__
+:decryption  key in next page:
 
 *--Link to Virtual Machine:https://www.vmware.com/products/workstation-player.html
 #  ileasOS 
