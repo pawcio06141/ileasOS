@@ -20,4 +20,5 @@ SYstem for Education
 Owner Project: Pawel Cz
 Programators: Pawel Cz, 
 , Program Cubic
+ ![obraz](https://github.com/pawcio06141/ileasOS/assets/157916170/1d234831-f888-420f-8b62-80012b79a607)
 
