@@ -6,7 +6,7 @@ The Next Update : IleasOS 1.2 in 20.03.2024r.
 kernel: latest
 -----------=======-----===-----------------
 # Download IleasOS !
-*-Link to ISO[SYSTEM: https://mega.nz/file/Ab0SgTjR
+*-Link to ISO[SYSTEM v.1.0: https://mega.nz/file/Ab0SgTjR
 __Warning! You must enter the decryption key after entering the link,
 
 
