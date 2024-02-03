@@ -1,3 +1,4 @@
+ ### entry edited: 3.02.2024.r
 # WELCOME TO ILEASos (improved Ubuntu) !
   SYSTEM POWERED BY LINUX BASED IN UBUNTU, 
 ## Versions 
