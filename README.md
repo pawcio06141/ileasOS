@@ -6,13 +6,13 @@ The Next Update : IleasOS 1.2 in 20.03.2024r.
 kernel: latest
 -----------=======-----===-----------------
 # Download IleasOS !
-*-Link to ISO[SYSTEM v.1.0: https://mega.nz/file/Ab0SgTjR
+*-Link to ISO[SYSTEM v.1.0:  [ILEAS.OS.ISO](https://mega.nz/file/Ab0SgTjR)
 __Warning! You must enter the decryption key after entering the link,
 
 
-*--Link to Virtual Machine:https://www.vmware.com/products/workstation-player.html
+*--Link to Virtual Machine: [VMARE.K](https://www.vmware.com/products/workstation-player.html)
 
-*=Link In program for create bootablePendrive: https://www.ventoy.net/en/index.html
+*=Link In program for create bootablePendrive: [ VENTOY](https://www.ventoy.net/en/index.html)
 #  ileasOS 
 Mega System 
 Free GIMP, INKSCAPE, STEAM , FRAZEN
