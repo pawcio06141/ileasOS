@@ -14,8 +14,7 @@ __Warning! You must enter the decryption key after entering the link,
 
 *=Link In program for create bootablePendrive: [ VENTOY](https://www.ventoy.net/en/index.html)
 #  ileasOS 
-Mega System 
-Free GIMP, INKSCAPE, STEAM , FRAZEN
+This system is based on Ubuntu 22, it comes with great drivers and apps, the system allows you to control it, so why IleasOS? IleasOS is here to make your life easier,
 SYstem for Education
 
 ## Autchors
