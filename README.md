@@ -1,4 +1,4 @@
- ### entry edited: 15.02.2024.r ###
+ ### entry edited: 17.09.2024.r ###
 # WELCOME TO ILEASos (improved Ubuntu) !
   SYSTEM POWERED BY LINUX BASED IN UBUNTU, 
 ## Versions 
@@ -6,6 +6,8 @@ Actual Version : *IleasOS 1.0 -Ubuntu22
 The Next Update : IleasOS 1.2 in 20.01.2025r.
 kernel: latest
 -----------=======-----===-----------------
+##  APP'S STORE FOR IleasOS
+Original aplication store :  [hati store.veix](https://veixia.wixsite.com/veixshopec/ileasos-polaos-hati)
 # Download IleasOS !
 *-(LATEST!)Link to ISO[SYSTEM v.1.0:  [ILEAS.OS.ISO](https://mega.nz/file/Ab0SgTjR)
 __Warning! You must enter the decryption key after entering the link,
@@ -17,6 +19,8 @@ __Warning! You must enter the decryption key after entering the link,
 #  ileasOS 
 This system is based on Ubuntu 22, it comes with great drivers and apps, the system allows you to control it, so why IleasOS? IleasOS is here to make your life easier,
 SYstem for Education
+
+(C) by Veix
 
 ## Autchors
 Owner Project: Pawel Cz
