@@ -1,9 +1,9 @@
- ### entry edited: 17.09.2024.r ###
+ ### entry edited: 18.09.2024.r ###
 # WELCOME TO ILEASos (improved Ubuntu) !
   SYSTEM POWERED BY LINUX BASED IN UBUNTU, 
 ## Versions 
-Actual Version : *IleasOS 1.0 -Ubuntu22
-The Next Update : IleasOS 1.2 in 20.01.2025r.
+Actual Version : *IleasOS 1.2 -Ubuntu22
+The Next Update : IleasOS 2.0 in 20.01.2025r.
 kernel: latest
 -----------=======-----===-----------------
 ##  APP'S STORE FOR IleasOS
